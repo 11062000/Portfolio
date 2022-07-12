@@ -63,22 +63,22 @@ let resumeData = {
         "skillname":"Reactjs"
       },
       {
-        "skillname":"DSA with Java"
+        "skillname":"DSA-with-Java"
       },
       {
-        "skillname":"Problem Solving"
+        "skillname":"Problem-Solving"
       },
       {
         "skillname":"Firebase"
       },
       {
-        "skillname":"Windows and kali linux"
+        "skillname":"Windows-and-kali-linux"
       },
       {
-        "skillname":"C/C++"
+        "skillname":"C-and-Cpp"
       },
       {
-        "skillname":"Communication and Public speaking"
+        "skillname":"Communication-and-Public-speaking"
       }
     ],
     "portfolio":[

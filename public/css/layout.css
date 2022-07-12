@@ -350,6 +350,44 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+.windows-and-kali-linux{
+   width: 80%;
+   -moz-animation: html5 2s ease;
+   -webkit-animation: html5 2s ease;
+}
+.communication-and-public-speaking{
+   width: 90%;
+   -moz-animation: html5 2s ease;
+   -webkit-animation: html5 2s ease;
+}
+.c-and-cpp{
+   width: 60%;
+   -moz-animation: html5 2s ease;
+   -webkit-animation: html5 2s ease;
+}
+.problem-solving {
+   width: 80%;
+   -moz-animation: html5 2s ease;
+   -webkit-animation: html5 2s ease;
+}
+.firebase {
+   width: 80%;
+   -moz-animation: html5 2s ease;
+   -webkit-animation: html5 2s ease;
+}
+
+
+.dsa-with-java{
+   width: 70%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
+.reactjs{
+   width: 80%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
+
 .jquery {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
