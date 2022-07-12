@@ -4,22 +4,20 @@ export default class ContactUs extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="contact">
+        <h1>Contact Me:</h1>
           <div className="row section-head">
             <div className="ten columns">
               <p className="lead">
-              Feel free to contact me for any work or suggestions below
+              Feel free to contact me for any work or suggestions below 
               </p>
             </div>
           </div>
-          <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
-                </h4>
-              </div>
-            </aside>
-          </div>
+          <form action="">
+           <label htmlFor="">Name: </label> <input type="text" name="" id="" />
+           <label htmlFor="">Email: </label> <input type="text" name="" id="" />
+           <label htmlFor="">Message: </label> <textarea name="" id="" cols="30" rows="10"></textarea>
+            <button type="submit">Submit</button>
+          </form>
         </section>
         );
   }
